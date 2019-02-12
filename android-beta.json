@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.3.59",
+  "minRequiredVersion": "1.3.59",
+  "updateMessage": "A new verion is available. Please update to version 0.3.59 now.",
+  "forcedUpdateMessage": "An update is requiered. Please update to version 0.3.59 now.",
+  "isAppUnavailable": false,
+  "appUnavailableMessage": "Sorry. We are running into some difficulties. Please try again later.",
+  "urlUpdate": "http://google.com/"
+}
