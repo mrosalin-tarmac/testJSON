@@ -1,0 +1,9 @@
+{
+  "latestVersion": "6500",
+  "minRequiredVersion": "6500",
+  "updateMessage": "A new verion is available. Please update to version 6500 now.",
+  "forcedUpdateMessage": "An update is requiered. Please update to version 6500 now.",
+  "isAppUnavailable": false,
+  "appUnavailableMessage": "Sorry. We are running into some difficulties. Please try again later.",
+  "urlUpdate": "https://play.google.com/apps/testing/gokart.com.principal"
+}
