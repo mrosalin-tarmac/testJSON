@@ -1,0 +1,9 @@
+{
+  "latestVersion": "0",
+  "minRequiredVersion": "0",
+  "updateMessage": "A new version is available. Please update to version 0.3.59 now.",
+  "forcedUpdateMessage": "An update is requiered. Please update to version 0.3.59 now.",
+  "isAppUnavailable": false,
+  "appUnavailableMessage": "Sorry. We are running into some difficulties. Please try again later.",
+  "urlUpdate": "http://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+}
