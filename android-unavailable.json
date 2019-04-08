@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0",
-  "minRequiredVersion": "0",
+  "latestVersion": 0,
+  "minRequiredVersion": 0,
   "updateMessage": "A new verion is available. Please update to version 0.3.59 now.",
   "forcedUpdateMessage": "An update is requiered. Please update to version 0.3.59 now.",
   "isAppUnavailable": true,
