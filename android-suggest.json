@@ -1,6 +1,6 @@
 {
-  "latestVersion": "6400",
-  "minRequiredVersion": "1",
+  "latestVersion": 6590,
+  "minRequiredVersion": 1,
   "updateMessage": "A new version is available. Please update to version 6400 now.",
   "forcedUpdateMessage": "An update is requiered. Please update to version 6400 now.",
   "isAppUnavailable": false,
